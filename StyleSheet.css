@@ -1,0 +1,21 @@
+body {
+  background-color: black;
+}
+
+.Justimon {
+  height: 250px;
+  width: 175px;
+  background-color: gray;
+}
+
+.D-Reaper {
+  height: 250px;
+  width: 175px;
+  background-color: whitesmoke;
+}
+
+.Gallantmon {
+  height: 250px;
+  width: 175px;
+  background-color: tomato;
+}
